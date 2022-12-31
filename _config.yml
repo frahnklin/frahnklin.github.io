@@ -10,7 +10,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome! This is my personal website where I publish anything from
   code, tutorials, or ramblings of mine. Enjoy!
 github_username: frahnklin
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
