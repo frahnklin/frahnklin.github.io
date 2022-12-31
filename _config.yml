@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   code, tutorials, or ramblings of mine. Enjoy!
 github_username: frahnklin
 minimal_mistakes_skin: dirt
-minimal_mistakes_skin: dark
+minimal_mistakes_skin_dark: dark
 search: true
 
 # Build settings
